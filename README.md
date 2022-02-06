@@ -9,6 +9,6 @@
 ## Description
   
 I'm student of course Systems Engineering on Federal University of Minas Gerais and employee of great bank of the Brazil known about Caixa Economica Federal.
-I'm interested in computing and finance  
+I'm interested in musica, computing and finance quantitative! 
  
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
