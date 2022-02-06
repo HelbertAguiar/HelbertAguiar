@@ -7,6 +7,3 @@
 <hr>
  
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
-
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=HelbertAguiar&repo=HelbertAguiar&theme=react)](https://github.com/HelbertAguiar/HelbertAguiar)
