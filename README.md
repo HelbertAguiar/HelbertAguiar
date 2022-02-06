@@ -6,7 +6,7 @@
 </div>
 <hr>
   
-## Description
+## About me
   
 I'm student of course Systems Engineering on Federal University of Minas Gerais and employee of great bank of the Brazil known about Caixa Economica Federal.
 I'm interested in music, computing and finance quantitative! 
